@@ -9,7 +9,7 @@ this code writed with **PHP**
 ## how to use
 1. upload this code on host with support `PHP,SSL`
 2. enter token robot (get from telegram botfather) in :
-  ```php
+  ```Python
   	$token = '';
   ```
 
