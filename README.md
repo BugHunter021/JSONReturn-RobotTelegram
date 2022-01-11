@@ -4,7 +4,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **JsonReturn**
+this code writed with **PHP**
+
+## how to use
+1. upload this code on host with support `PHP,SSL`
+2. enter token robot (get from telegram botfather) in :
+  ```php
+  	$token = '';
+  ```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
