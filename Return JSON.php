@@ -14,7 +14,7 @@ $string = json_decode(file_get_contents('php://input'));
         }
         return array_map( 'objectToArray', $object );
     }
-	$token = '1684441302:AAEZGhiX6blcbhozl-fDx9vyIOGRkmJhdmY';
+	$token = ''; ' Enter yor token robot
 	$result = objectToArray($string);
 	$user_id = $result['message']['from']['id'];
 
