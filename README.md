@@ -46,8 +46,6 @@ result like this :
 	
 TelegramID : [@mrbugbounty](https://t.me/mrbugbounty)
 
-<a href="http://www.coffeete.ir/BugHunter"><img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" style="width:260px;" /></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbugbountyJSONReturn&label=Profile%20views&color=0e75b6&style=flat" alt="mrbugbountyJSONReturn" /> </p>
