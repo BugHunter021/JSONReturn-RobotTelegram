@@ -24,5 +24,4 @@ $json_string = json_encode($result, JSON_PRETTY_PRINT);
 	$url = 'https://api.telegram.org/bot'.$token.'/sendMessage?chat_id='.$user_id;
 	$url .= '&text='.urlencode($json_string);
 	$RES =file_get_contents($url);
-	
  ?>
